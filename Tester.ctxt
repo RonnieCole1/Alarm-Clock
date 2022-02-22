@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tester\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Tester()
+comment2.params=
+comment2.target=boolean\ testAlarm()
+comment2.text=\r\n\ Tests\ if\ the\ alarm\ clock\ sounds\ at\ the\ right\ time.\r\n
+comment3.params=
+comment3.target=boolean\ testNoAlarm()
+comment3.text=\r\n\ Tests\ if\ the\ alarm\ clock\ sounds\ at\ the\ right\ time\ when\ considering\ the\ jump\ to\ a\r\n\ new\ hour.\r\n
+comment4.params=
+comment4.target=boolean\ testDuration()
+comment4.text=\r\n\ Tests\ durations\ 1,\ 2,\ and\ 3\ and\ checks\ if\ they\ return\ the\ right\ alarm\ sound.\r\n
+comment5.params=
+comment5.target=boolean\ testSnooze()
+comment5.text=\r\n\ Tests\ if\ snooze\ properly\ pushes\ alarm\ time\ foward\ 4\ minutes.\r\n
+comment6.params=
+comment6.target=int\ runAllTests()
+comment6.text=\r\n\ Runs\ all\ tests\ and\ returns\ a\ value\ representative\ of\ the\ tests\ that\ ran\r\n\ successfully.\r\n
+numComments=7
